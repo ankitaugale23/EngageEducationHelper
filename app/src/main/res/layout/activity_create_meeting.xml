@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="15dp"
+    tools:context=".Faculty.CreateMeeting">
+
+
+    <EditText
+        android:id="@+id/et_meetingCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Meeting Code"
+        android:inputType="text"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/textview_border"
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:onClick="onCreateMeeting"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:textColor="@color/white"
+        android:text="Create Meeting"
+        android:background="@drawable/button_primary_green"
+        android:gravity="center"
+        />
+</LinearLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    tools:context=".Faculty.FacultyChannelComponents"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_ChannelCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Channel Code"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:background="@drawable/textview_border"
+        android:padding="5dp"
+        android:textAlignment="center"
+        android:textColor="#3F51B5"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+        <Button
+            android:id="@+id/button_assignments"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Assignments"
+            android:textColor="#FFF"
+            android:onClick="onAssignments"
+            />
+
+        <Button
+            android:id="@+id/button_forum"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:onClick="onFacultyForum"
+            android:text="Forum"
+            android:textColor="#FFF"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/button_requests"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Requests"
+            android:textColor="#FFF"
+            android:onClick="onRequestsFaculty"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/button_settings"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Create Meeting"
+            android:onClick="onCreateMeeting"
+            android:textColor="#FFF"
+            tools:ignore="MissingConstraints" />
+    </LinearLayout>
+
+
+</LinearLayout>

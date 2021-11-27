@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EducationHelper</string>
+    <string name="thumbnail"><img src="app/src/main/res/drawable-v24/send_message.png"></img></string>
+</resources>

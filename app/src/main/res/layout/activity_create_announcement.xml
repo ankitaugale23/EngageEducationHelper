@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".Faculty.CreateAnnouncement">
+
+
+
+
+
+    <LinearLayout
+
+        android:id="@+id/type_message_area"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        >
+
+
+        <EditText
+            android:id="@+id/input_announcement"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Write the announcement here.."
+            android:padding="10dp"
+            android:layout_margin="15dp"
+            android:background="@drawable/textview_border"/>
+
+        <Button
+            android:id="@+id/post_announcement_button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Upload"
+            android:textColor="@color/white"
+            android:background="@drawable/rounded_corner_primary_green"
+            />
+    </LinearLayout>
+
+
+</LinearLayout>

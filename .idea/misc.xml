@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/education-helper/app/src/main/res/drawable/button_primary_green.xml" value="0.23493360572012256" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/drawable/button_secondary.xml" value="0.23493360572012256" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_admin_homepage.xml" value="0.21501532175689478" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_assignment_landing_page.xml" value="0.18055555555555555" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_channel_components.xml" value="0.1962962962962963" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_create_announcement.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_create_assignment.xml" value="0.18055555555555555" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_create_channel.xml" value="0.18055555555555555" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_create_meeting.xml" value="0.1015625" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_faculty_channel_components.xml" value="0.2074074074074074" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_faculty_forum.xml" value="0.2" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_faculty_home_page.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_join_meeting.xml" value="0.1015625" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_login.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_register.xml" value="0.21501532175689478" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_register_faculty.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_show_announcement.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_show_assignment1.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_show_assignment2.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_show_channel_student.xml" value="0.18055555555555555" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_splash.xml" value="0.1015625" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_student_channel_components.xml" value="0.1962962962962963" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_student_forum.xml" value="0.19444444444444445" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_student_home_page.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_student_show_assignment.xml" value="0.20208333333333334" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_student_upload_assignment.xml" value="0.20208333333333334" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/activity_view_pdf.xml" value="0.20208333333333334" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/item_chat_me.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/item_chat_other.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/list_chat.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/list_student_request.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/message_receiver.xml" value="0.152" />
+        <entry key="..\:/Projects/education-helper/app/src/main/res/layout/message_sender.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_admin_homepage.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_assignment_landing_page.xml" value="0.26875" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_assignments_landing_page.xml" value="0.17" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_channel_components.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_chat_window.xml" value="0.1359375" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_create_assignment.xml" value="0.26875" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_create_meeting.xml" value="0.26875" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_faculty_channel_components.xml" value="0.2546875" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_faculty_forum.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_faculty_home_page.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_group_create.xml" value="0.13645833333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_manage_requests.xml" value="0.2546875" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_register.xml" value="0.18478260869565216" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_request_from_student.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_show_assignment1.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_show_assignment2.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_show_groups.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_splash.xml" value="0.26875" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_student_channel_components.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_student_forum.xml" value="0.266304347826087" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/activity_student_home_page.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/EducationHelper/app/src/main/res/layout/list_chat.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

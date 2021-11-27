@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="15dp"
+    tools:context=".LoginActivity">
+
+    <EditText
+        android:id="@+id/et_username"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:maxLength="10"
+        android:inputType="number"
+        android:hint="Mobile No."
+        android:background="@drawable/textview_border"
+        android:paddingLeft="10dp"
+        android:layout_marginBottom="10dp"
+        />
+
+    <EditText
+        android:id="@+id/et_password"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Password"
+        android:background="@drawable/textview_border"
+        android:paddingLeft="10dp"
+        android:layout_marginBottom="10dp"
+        android:inputType="textPassword"
+        />
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:onClick="onClickLogin"
+        android:text="Login"
+        android:background="@drawable/rounded_corner_primary_green"
+        android:textColor="@color/white"
+        />
+
+    <TextView
+        android:id="@+id/tv_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Register Now?"
+        android:textAlignment="center"
+        android:layout_marginTop="10dp"
+        />
+
+</LinearLayout>

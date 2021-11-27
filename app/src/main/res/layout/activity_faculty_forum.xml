@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Faculty.FacultyForum">
+
+
+    <ListView
+        android:divider="@null"
+        android:dividerHeight="0dp"
+        android:layout_weight="1"
+        android:id="@+id/myListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constrainedHeight="true"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RelativeLayout
+        android:background="#F7F7F7"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/layout_gchat_chatbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/input_group_message"
+                android:background="@drawable/textview_border"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+                android:hint="Enter message"
+                android:layout_weight="1"/>
+
+            <Button
+                android:id="@+id/send_message_button"
+                android:layout_margin="10dp"
+                android:layout_width="82dp"
+                android:layout_height="32dp"
+                android:background="@drawable/sendmessage"
+                android:layout_weight="1"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</LinearLayout>
